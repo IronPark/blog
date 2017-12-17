@@ -1,7 +1,3 @@
-# baseURL = "http://example.org/"
-# languageCode = "en-us"
-# title = "My New Hugo Site"
-
 baseurl = "https://ironpark.github.io/"
 title = "studyroom"
 theme = "ghostwriter"
@@ -34,8 +30,8 @@ disqusShortname = "ironpark"
     shareGooglePlus = true
     shareLinkedIn = true
     dateFormat = "Mon, Jan 2, 2006"
-    highlightJsUrl = ""
-    highlightJsLocalUrl = ""
+    # highlightJsUrl = "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"
+    highlightJsLocalUrl = "js/highlight.pack.js"
 
 [Permalinks]
     post = "/:year/:month/:day/:filename/"
