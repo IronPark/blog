@@ -2,6 +2,8 @@
 title: "블로그를 시작 하면서"
 date: 2017-12-17T13:37:11+09:00
 draft: false
+categories: [ "Blog"]
+tags: ["blog","hugo"]
 ---
 # 다시 시작하는 블로그 생활
 
