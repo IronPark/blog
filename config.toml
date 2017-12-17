@@ -2,37 +2,37 @@
 # languageCode = "en-us"
 # title = "My New Hugo Site"
 
-baseurl = "https://example.com/"
-title = "mytitle"
+baseurl = "https://ironpark.github.io/"
+title = "studyroom"
 theme = "ghostwriter"
 languageCode = "en-us"
-copyright = "My Name"
-googleAnalytics = "XXX"
-disqusShortname = "XXX"
+copyright = "ironpark"
+googleAnalytics = "UA-111367330-1"
+disqusShortname = "ironpark"
 
 [Author]
-    name = "My Name"
-    profile = "https://google.com/+XXX"
+    name = "ironpark"
+    profile = "https://github.com/ironpark"
 
 [Taxonomies]
     tag = "tags"
 
 [Params]
     intro = true
-    headline = "My headline"
-    description = "My description"
-    github = "https://github.com/XXX"
-    gitlab = "https://gitlab.com/XXX"
-    linkedin = "https://linkedin.com/in/XXX/"
-    gplus = "https://google.com/+XXX"
-    twitter = "https://twitter.com/XXX"
-    stackoverflow = "https://stackoverflow.com/users/XXX/YYY"
-    email = "XXX@example.com"
+    headline = "ironpark's study room"
+    description = "while(!dead){studying()}"
+    github = "https://github.com/ironpark"
+    # gitlab = "https://gitlab.com/XXX"
+    linkedin = "https://linkedin.com/in/cheolwan-park-83ba3ba8/"
+    # gplus = "https://google.com/+XXX"
+    # twitter = "https://twitter.com/XXX"
+    # stackoverflow = "https://stackoverflow.com/users/XXX/YYY"
+    email = "cjfdhksaos@gmail.com"
     opengraph = true
     shareTwitter = true
     shareFacebook = true
     shareGooglePlus = true
-    shareLinkedIn = false
+    shareLinkedIn = true
     dateFormat = "Mon, Jan 2, 2006"
     highlightJsUrl = ""
     highlightJsLocalUrl = ""
@@ -45,17 +45,17 @@ disqusShortname = "XXX"
     url = "/"
     weight = 1
 
-[[menu.main]]
-    name = "Projects"
-    url = "/project/"
-    weight = 2
+# [[menu.main]]
+#     name = "Projects"
+#     url = "/project/"
+#     weight = 2
 
-[[menu.main]]
-    name = "Contact"
-    url = "/page/contact/"
-    weight = 3
+# [[menu.main]]
+#     name = "Contact"
+#     url = "/page/contact/"
+#     weight = 3
 
-[[menu.main]]
-    name = "About"
-    url = "/page/about/"
-    weight = 4
+# [[menu.main]]
+#     name = "About"
+#     url = "/page/about/"
+#     weight = 4
