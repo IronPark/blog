@@ -1,6 +1,6 @@
 baseurl = "https://ironpark.github.io/"
 title = "studyroom"
-theme = "ghostwriter"
+theme = "ghostwriter-custom"
 languageCode = "en-us"
 copyright = "ironpark"
 googleAnalytics = "UA-111367330-1"
