@@ -1,7 +1,9 @@
 ---
 title: "이미지 생성을 위한 Dockerfile Cheat Sheet"
 date: 2017-12-22T22:50:42+09:00
-draft: true
+draft: false
+categories: ["Development","GCP","Docker"]
+tags: ["docker","cloud"]
 ---
 Docker 이미지를 생성하기위해 기본적으로 알아야할 문법과 사용예를 기술하고 있습니다. 하지만 상세한 설명이 없거나 설명되지 않은 명령어 부족한 부분이 있을 수 있으며 이부분은 당연히 [Docker 공식 문서](https://docs.docker.com/engine/reference/builder/#dockerignore-file) 를 참고하시면 좋습니다.
 
